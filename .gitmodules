@@ -19,3 +19,9 @@
 [submodule "template/coding-template"]
 	path = template/coding-template
 	url = git@github.com:JinsYin/coding-template.git
+[submodule "theme/rustbook"]
+	path = theme/rustbook
+	url = git@github.com:JinsYin/rustbook.git
+[submodule "theme/jbook"]
+	path = theme/jbook
+	url = git@github.com:JinsYin/jbook.git
