@@ -1,0 +1,3 @@
+[submodule "cloud-native-handbook"]
+	path = cloud-native-handbook
+	url = https://github.com/JinsYin/cloud-native-handbook.git
