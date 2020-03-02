@@ -25,3 +25,6 @@
 [submodule "theme/jbook"]
 	path = theme/jbook
 	url = git@github.com:JinsYin/jbook.git
+[submodule "letscode"]
+	path = letscode
+	url = git@github.com:JinsYin/letscode.git
