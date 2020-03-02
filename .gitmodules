@@ -31,3 +31,6 @@
 [submodule "private"]
 	path = private
 	url = git@github.com:JinsYin/private.git
+[submodule "x"]
+	path = x
+	url = git@github.com:JinsYin/x.git
