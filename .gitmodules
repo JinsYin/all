@@ -1,3 +1,12 @@
 [submodule "cloud-native-handbook"]
 	path = cloud-native-handbook
 	url = https://github.com/JinsYin/cloud-native-handbook.git
+[submodule "quickstarts.io"]
+	path = quickstarts.io
+	url = git@github.com:JinsYin/quickstarts.io.git
+[submodule "knowledge-base"]
+	path = knowledge-base
+	url = git@github.com:JinsYin/knowledge-base.git
+[submodule "notes"]
+	path = notes
+	url = git@github.com:JinsYin/notes.git
