@@ -1,0 +1,6 @@
+url: https://githome.io
+
+exclude:
+  - README.md
+  - LICENSE
+  - CNAME
